@@ -9,27 +9,27 @@
   "env": {
     "ALIVE_NAME": {
       "description": "هنا ضع اسم التلجرام الخاص بك",
-      "value": ""
+      "value": "@𝑳 𝑬 𝑮 𝑬 𝑵 𝑫.❤_"
     },
     "APP_ID": {
       "description": "هنا ضع الايبي ايدي الخاص بك يتكون من ارقام", 
-      "value": ""
+      "value": "7720093"
     },
     "API_HASH": {
       "description": "هنا ضع الايبي هاش الخاص بك يتكون من احرف و ارقام",
-      "value": ""
+      "value": "51560d96d683932d1e68851e7f0fdea2"
     },
     "STRING_SESSION": {
       "description": " ضع كود تيرمكس",
-      "value": ""
+      "value": "1BJWap1wBu1J_nDzrAj9YMNHyEunr5OUWO7vCYFUfZbdVRjOqqe9bXZqbunPBD_VqCKhtGG94PD8JsmxRF0XjVS2Z66GazwXnlWQe64o89IpV-rmbfdPLU5GY7q8pa2gRREYl47mfOKx8aYQfVOMJt5tGV2nXloNYAqT2OCP3YELktYWzKyg25l9N7Nd8J5YWY71cH4Wu1Df2Frz5PpxwrZeGnNP-w_ixOKQgU9W-c-72zNNfrq5uTJyH2iTKNQX2-28FCjNJ6tCSddPVSA5cdCPRP4k-m6IZNj0tqqq9ijCAwb1EDSUayjFoYrzBJBsT8_BItICWQw1ZHEre9jPe4Y9SmyPPf88="
     },
     "TG_BOT_USERNAME": {
       "description": " ضع معرف بوتك بدون @",
-      "value": ""
+      "value": "Vzysbsbot"
     },
     "TG_BOT_TOKEN": {
       "description": "ضع توكن بوتك",
-      "value": ""
+      "value": "5830502850:AAEDQX-gvmVZkeV86NABmbVNxo_ubKM5W7Y"
     },
     "COMMAND_HAND_LER": {
       "description": "اتركة كما هوة او ضع الأمر الذي تريده بدلا من النقطة",
